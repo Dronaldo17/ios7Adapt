@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5A9F078-DBF3-4968-8F02-2DCDE215F1AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IOS7AdaptationDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCB2D621-A267-434A-A4D4-31E29E95B9D4</key>
+		<string>https://github.com/Dronaldo17/ios7Adapt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS7AdaptationDemo/IOS7AdaptationDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCB2D621-A267-434A-A4D4-31E29E95B9D4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dronaldo17/ios7Adapt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCB2D621-A267-434A-A4D4-31E29E95B9D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCB2D621-A267-434A-A4D4-31E29E95B9D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios7Adapt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
